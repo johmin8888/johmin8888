@@ -9,7 +9,7 @@
             I am a recent graduate with the ⚙️<b>B.Sc in Mechanical Engineering</b>⚙️ from the University of Alberta. <br>
             Now, I am learning the other engineering fields to be a 🤖<b>Robotics Engineer</b>🤖. <br>
             <br>
-            I enjoy travelling around the world. ✈️🌏 <br>
+            I enjoy traveling around the world. ✈️🌏 <br>
             So far, I have lived in 🇰🇷 🇸🇦 🇨🇦.
         </p>
     </div>
@@ -20,7 +20,7 @@
         <p>
             <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-DD2C00?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
             <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white"/>
-            <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=autocad&logoColor=white"/>
+            <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
             <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
         </p>
         <h3>Programming</h3>
