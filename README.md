@@ -43,6 +43,13 @@
             <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
         </p>
     </div>
+    <br>
+    <div>
+        <h1>Find Me 📌</h1>
+        <p>
+            <li>Blog: <a href="https://johmin8888.github.io/">https://johmin8888.github.io/</a>
+        </p>
+    </div>
 </body>
 
 <footer>
