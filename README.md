@@ -10,7 +10,7 @@
             Now, I am learning the other engineering fields to be a 🤖<b>Robotics Engineer</b>🤖. <br>
             <br>
             I enjoy traveling around the world. ✈️🌏 <br>
-            So far, I have lived in 🇰🇷 🇸🇦 🇨🇦.
+            So far, I have lived in 🇰🇷 🇿🇦 🇨🇦.
         </p>
     </div>
     <br>
