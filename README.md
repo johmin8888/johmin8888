@@ -7,7 +7,7 @@
         <h1>Welcome! 👋</h1>
         <p>
             I am a recent graduate with the ⚙️<b>B.Sc in Mechanical Engineering</b>⚙️ from the University of Alberta. <br>
-            Now, I am learning the other engineering fields to be a 🤖<b>Robotics Engineer</b>🤖. <br>
+            Now, I am learning the other engineering fields to be a 🤖<b>Tech Guru</b>🤖. <br>
             <br>
             I enjoy traveling around the world. ✈️🌏 <br>
             So far, I have lived in 🇰🇷 🇿🇦 🇨🇦.
